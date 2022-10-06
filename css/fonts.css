@@ -1,0 +1,24 @@
+@font-face {
+    font-family: 'RE';
+    src: url(../fonts/Vollkorn-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'BO';
+    src: url(../fonts/Vollkorn-Bold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'SB';
+    src: url(../fonts/Vollkorn-SemiBold.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'MOL';
+    src: url(../fonts/Montserrat-Light.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'MOR';
+    src: url(../fonts/Montserrat-Regular.ttf) format('truetype');
+}
+@font-face {
+    font-family: 'MOB';
+    src: url(../fonts/Montserrat-SemiBold.ttf) format('truetype');
+}
